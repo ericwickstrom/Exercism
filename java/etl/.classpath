@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="bin" kind="output"/>
+	<classpathentry path="src/main/java" kind="src"/>
+	<classpathentry path="src/test/java" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/" kind="con"/>
+	<classpathentry path="/home/beardsmcgee/.gradle/caches/modules-2/files-2.1/junit/junit/4.10/e4f1766ce7404a08f45d859fb9c226fc9e41a861/junit-4.10.jar" kind="lib" sourcepath="/home/beardsmcgee/.gradle/caches/modules-2/files-2.1/junit/junit/4.10/6c98d6766e72d5575f96c9479d1c1d3b865c6e25/junit-4.10-sources.jar"/>
+	<classpathentry path="/home/beardsmcgee/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.2.0/eded8ad93bf57af8eff233c1751550bd40349ebb/assertj-core-3.2.0.jar" kind="lib" sourcepath="/home/beardsmcgee/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.2.0/af003f6eddb678513420a90dbba8650e63a7817a/assertj-core-3.2.0-sources.jar"/>
+	<classpathentry path="/home/beardsmcgee/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/16.0.1/5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5/guava-16.0.1.jar" kind="lib" sourcepath="/home/beardsmcgee/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/16.0.1/2477d012cd5379f9696e0d9d3ccc62ad13a09ca4/guava-16.0.1-sources.jar"/>
+	<classpathentry path="/home/beardsmcgee/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar" kind="lib" sourcepath="/home/beardsmcgee/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/2ccf1154d1a8936042a8a742dc3e611d02ac7213/hamcrest-core-1.1-sources.jar"/>
+</classpath>
