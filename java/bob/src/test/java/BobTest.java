@@ -1,5 +1,7 @@
 import org.junit.Test;
 
+import bob.Bob;
+
 import static org.junit.Assert.*;
 
 public class BobTest {
