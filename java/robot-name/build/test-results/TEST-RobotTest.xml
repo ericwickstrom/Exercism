@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-08-13T15:29:17" hostname="beardsmcgee-ubuntu" time="0.009">
+  <properties/>
+  <testcase name="resetName" classname="RobotTest" time="0.006"/>
+  <testcase name="hasName" classname="RobotTest" time="0.001"/>
+  <testcase name="differentRobotsHaveDifferentNames" classname="RobotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
