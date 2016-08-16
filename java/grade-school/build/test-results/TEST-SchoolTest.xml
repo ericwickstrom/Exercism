@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SchoolTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-08-16T18:48:32" hostname="beardsmcgee-ubuntu" time="0.116">
+  <properties/>
+  <testcase name="startsWithNoStudents" classname="SchoolTest" time="0.09"/>
+  <testcase name="addsStudents" classname="SchoolTest" time="0.01"/>
+  <testcase name="getsStudentsInAGrade" classname="SchoolTest" time="0.004"/>
+  <testcase name="getsStudentsInEmptyGrade" classname="SchoolTest" time="0.0"/>
+  <testcase name="addsMoreStudentsInSameGrade" classname="SchoolTest" time="0.0"/>
+  <testcase name="addsStudentsInMultipleGrades" classname="SchoolTest" time="0.0"/>
+  <testcase name="sortsSchool" classname="SchoolTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
