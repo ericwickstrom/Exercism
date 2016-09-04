@@ -32,4 +32,7 @@ public class Triangle {
 			return TriangleKind.SCALENE;
 		}
 	}
+	
+	
+	
 }

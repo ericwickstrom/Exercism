@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TriangleTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2016-09-01T15:08:08" hostname="beardsmcgee-ubuntu" time="0.148">
+  <properties/>
+  <testcase name="scaleneTrianglesHaveNoEqualSides" classname="TriangleTest" time="0.012"/>
+  <testcase name="scaleneTrianglesHaveNoEqualSidesAtLargerScaleEither" classname="TriangleTest" time="0.002"/>
+  <testcase name="scaleneTrianglesHaveNoEqualSidesInDescendingOrderEither" classname="TriangleTest" time="0.004"/>
+  <testcase name="trianglesWithNegativeSidesAreIllegal" classname="TriangleTest" time="0.002"/>
+  <testcase name="trianglesViolatingTriangleInequalityAreIllegal" classname="TriangleTest" time="0.014"/>
+  <testcase name="trianglesViolatingTriangleInequalityAreIllegal2" classname="TriangleTest" time="0.007"/>
+  <testcase name="trianglesViolatingTriangleInequalityAreIllegal3" classname="TriangleTest" time="0.005"/>
+  <testcase name="equilateralTriangleHaveEqualSides" classname="TriangleTest" time="0.002"/>
+  <testcase name="largerEquilateralTrianglesAlsoHaveEqualSides" classname="TriangleTest" time="0.005"/>
+  <testcase name="verySmallTrianglesAreLegal" classname="TriangleTest" time="0.0"/>
+  <testcase name="isoscelesTrianglesHaveLastTwoSidesEqual" classname="TriangleTest" time="0.006"/>
+  <testcase name="isoscelesTrianglesHaveFirstAndLastSidesEqual" classname="TriangleTest" time="0.003"/>
+  <testcase name="isoscelesTrianglesHaveTwoFirstSidesEqual" classname="TriangleTest" time="0.001"/>
+  <testcase name="isoscelesTrianglesHaveInFactExactlyTwoSidesEqual" classname="TriangleTest" time="0.012"/>
+  <testcase name="trianglesWithNoSizeAreIllegal" classname="TriangleTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
