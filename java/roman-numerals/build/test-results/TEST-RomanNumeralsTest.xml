@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RomanNumeralsTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2016-09-06T15:05:03" hostname="beardsmcgee-ubuntu" time="0.025">
+  <properties/>
+  <testcase name="convertArabicNumberalToRomanNumeral[0]" classname="RomanNumeralsTest" time="0.002"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[1]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[2]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[3]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[4]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[5]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[6]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[7]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[8]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[9]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[10]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[11]" classname="RomanNumeralsTest" time="0.002"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[12]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[13]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[14]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[15]" classname="RomanNumeralsTest" time="0.003"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[16]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[17]" classname="RomanNumeralsTest" time="0.0"/>
+  <testcase name="convertArabicNumberalToRomanNumeral[18]" classname="RomanNumeralsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
