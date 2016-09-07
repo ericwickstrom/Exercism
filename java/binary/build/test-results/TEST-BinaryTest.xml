@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinaryTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2016-09-07T17:43:47" hostname="beardsmcgee-ubuntu" time="0.019">
+  <properties/>
+  <testcase name="test[0]" classname="BinaryTest" time="0.002"/>
+  <testcase name="test[1]" classname="BinaryTest" time="0.0"/>
+  <testcase name="test[2]" classname="BinaryTest" time="0.0"/>
+  <testcase name="test[3]" classname="BinaryTest" time="0.001"/>
+  <testcase name="test[4]" classname="BinaryTest" time="0.001"/>
+  <testcase name="test[5]" classname="BinaryTest" time="0.001"/>
+  <testcase name="test[6]" classname="BinaryTest" time="0.001"/>
+  <testcase name="test[7]" classname="BinaryTest" time="0.0"/>
+  <testcase name="test[8]" classname="BinaryTest" time="0.0"/>
+  <testcase name="test[9]" classname="BinaryTest" time="0.001"/>
+  <testcase name="test[10]" classname="BinaryTest" time="0.0"/>
+  <testcase name="test[11]" classname="BinaryTest" time="0.0"/>
+  <testcase name="test[12]" classname="BinaryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
